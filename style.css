@@ -5,3 +5,35 @@
 }
 
 /* write all your rules below */
+.header{
+    border: 10px;
+    margin: 20px;
+    padding-right: 100vh;
+    background-color:pink;
+    border-style: solid;
+    border-color:red
+}
+#one{
+padding: 100px;
+background-color:aqua;
+border:10px;
+}
+#two{
+    padding:45px;
+    border:10px;
+    border-style:solid;
+    border-color:pink;
+    background-color:yellow;
+    text-align:left;
+    margin:30px;
+}
+.blue{
+    color:blue;
+}
+.green{
+    color:green;
+}
+p{
+    color:purple;
+}
+
